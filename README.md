@@ -24,5 +24,5 @@ Open the terminal from the root of directory and run the below “command”
 Open the Azure Portal and create an app service for the node environment.
 
 
-Demo url: https://ai-speech-translator.azurewebsites.net/
+Demo url: https://ai-speech-translator.azurewebsites.net
 
