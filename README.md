@@ -9,7 +9,7 @@ Type the App “Name” as you required and provide the “Region” with Standa
 At finally tick the check box then click the “Review +Create” button, after validation passed clicked the “Create”
 Deployment succeeded, then open the resource and copied the “key” and “Location” into a text file for the future uses.
 
-## Step 2: Building the SpeechText Web App
+## Step 2: Building the ai-speech-translator Web App
 * Create an empty directory name as ai-speech-translator and now go to root terminal of project and initiation of node project with the below command.
 Fill out the required information for the initialize of the project.
 Create a file named index.js — this file will have the main code for our application.
