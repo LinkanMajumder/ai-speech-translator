@@ -10,7 +10,7 @@ At finally tick the check box then click the “Review +Create” button, after 
 Deployment succeeded, then open the resource and copied the “key” and “Location” into a text file for the future uses.
 
 ## Step 2: Building the SpeechText Web App
-* Create an empty directory name as SpeechTextApp and now go to root terminal of project and initiation of node project with the below command.
+* Create an empty directory name as ai-speech-translator and now go to root terminal of project and initiation of node project with the below command.
 Fill out the required information for the initialize of the project.
 Create a file named index.js — this file will have the main code for our application.
 After initiation of the node app, Now we’ve to installing the required below packages for this project.
