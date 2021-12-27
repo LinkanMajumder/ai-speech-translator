@@ -27,8 +27,8 @@ router.use(function (req, res, next) {
 app.use("/", router);
 
 // Cognitive Service Key and variables
-var subscriptionKey = "3c2f90536efa46cb82af727b907e8c1b";
-var serviceRegion = "centralindia";
+var subscriptionKey = "your subscriptionKey";
+var serviceRegion = "your serviceRegion";
 var selectedlang ;
 
 // file upload variables
