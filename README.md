@@ -23,3 +23,6 @@ Open the terminal from the root of directory and run the below “command”
 * As we’ve build & tested our app, now has time to deploy the app through Azure App Service.
 Open the Azure Portal and create an app service for the node environment.
 
+
+Demo url: https://ai-speech-translator.azurewebsites.net/
+
